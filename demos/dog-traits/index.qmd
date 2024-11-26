@@ -1,0 +1,64 @@
+---
+title: "Dog Breeds Traits"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+```{python}
+import polars as pl
+from reactable import Reactable, Column, JS, embed_css
+from reactable.models import CellInfo
+from htmltools import img
+
+# Embed required CSS
+embed_css()
+
+# Read the data
+df_traits = pl.read_csv("../../raw-data/breed_traits.csv")
+df_desc = pl.read_csv("../../raw-data/wiki_breed_descriptions.csv").rename(
+    {"breed": "Breed"}
+)
+df_all = (
+    df_traits.join(df_desc, on="Breed")
+    .with_columns(Breed=pl.col("Breed").str.replace_all("\xa0", " "))
+    .rename({"thumbnail_path": "Img"})
+)
+
+
+# Create image cell renderer
+def image_cell(info: CellInfo):
+    if info.value is None:
+        return ""
+
+    thumbnail_path = (
+        info.value.lower().replace(" ", "").replace("(", "").replace(")", "")
+    )
+    return img(
+        src=f"thumbnails/{thumbnail_path}",
+        style="width: 100px; height: 100px; object-fit: cover;",
+    )
+
+
+# Select only the columns we want
+df_final = df_all.select(
+    ["Img", "Breed", "Affectionate With Family", "Shedding Level", "Drooling Level"]
+)
+
+# Create the table
+Reactable(
+    df_final,
+    columns={
+        "Img": Column(cell=image_cell),
+        "Breed": Column(),
+        "Affectionate With Family": Column(name="Affectionate with Family", width=150),
+        "Shedding Level": Column(width=120),
+        "Drooling Level": Column(width=120),
+    },
+    default_page_size=20,
+    filterable=True,
+    striped=True,
+    highlight=True,
+)
+```

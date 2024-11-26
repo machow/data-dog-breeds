@@ -5,7 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
+    "bs4>=0.0.2",
     "polars>=1.15.0",
     "reactable>=0.1.5",
     "requests>=2.32.3",
+    "wikipedia-api>=0.6.0",
 ]

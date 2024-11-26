@@ -1,0 +1,1172 @@
+[
+  {
+    "breed": "Retrievers\u00a0(Labrador)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Labrador_Retriever",
+    "description": "The Labrador Retriever or simply Labrador is a British breed of retriever gun dog. It was developed in the United Kingdom from St. John's water dogs imported from the colony of Newfoundland (now a province of Canada), and was named after the Labrador region of that colony. It is among the most commonly kept dogs in several countries, particularly in the European world.",
+    "thumbnail_path": "raw-data/thumbnails/retrievers (labrador).jpg"
+  },
+  {
+    "breed": "French\u00a0Bulldogs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/French_Bulldog",
+    "description": "The French Bulldog (French: Bouledogue Fran\u00e7ais) is a French breed of companion dog or toy dog. It appeared in Paris in the mid-nineteenth century, apparently the result of cross-breeding of Toy Bulldogs imported from England and local Parisian ratters. It is commonly kept as a pet and is among the most frequently registered dogs in a number of countries including Australia, the United Kingdom, and the United States. The breed is susceptible to various health problems as a consequence of being bred for a distinctive appearance, sporting a brachycephalic face and skin wrinkles.",
+    "thumbnail_path": "raw-data/thumbnails/french bulldogs.jpg"
+  },
+  {
+    "breed": "German\u00a0Shepherd\u00a0Dogs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/German_Shepherd",
+    "description": "The German Shepherd, also known in Britain as an Alsatian, is a German breed of working dog of medium to large size. The breed was developed by Max von Stephanitz using various traditional German herding dogs from 1899.",
+    "thumbnail_path": "raw-data/thumbnails/german shepherd dogs.jpg"
+  },
+  {
+    "breed": "Retrievers\u00a0(Golden)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Golden_Retriever",
+    "description": "The Golden Retriever is a Scottish breed of retriever dog of medium size. It is characterised by a gentle and affectionate nature and a striking golden coat. It is a working dog, and registration is subject to successful completion of a working trial. It is commonly kept as a pet and is among the most frequently registered breeds in several Western countries; some may compete in dog shows or obedience trials, or work as a guide dog.",
+    "thumbnail_path": "raw-data/thumbnails/retrievers (golden).jpg"
+  },
+  {
+    "breed": "Bulldogs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bulldog_type",
+    "description": "Bulldogs are a type of dog that were traditionally used for the blood sports of baiting and dog fighting, but today are kept for other purposes, including companion dogs, guard dogs and catch dogs. Bulldogs are typically stocky, powerful, square-built animals with large, strong, brachycephalic-type muzzles. \"Bull\" is a reference that originated in England that refers to the sport of bull-baiting, which was a national sport in England between the 13th and 18th century. It is believed that bulldogs were developed during the 16th century in the Elizabethan era from the larger mastiffs, as smaller, more compact dogs were better suited for baiting.",
+    "thumbnail_path": "raw-data/thumbnails/bulldogs.jpg"
+  },
+  {
+    "breed": "Poodles",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Beagles",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Rottweilers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rottweiler",
+    "description": "The Rottweiler (, UK also , German: [\u02c8\u0281\u0254tva\u026a\u032fl\u0250] ) is a breed of domestic dog, regarded as medium-to-large or large. The dogs were known in German as Rottweiler Metzgerhund, meaning Rottweil butchers' dogs, because their main use was to herd livestock and pull carts laden with butchered meat to market. This continued until the mid-19th century when railways replaced droving. Although still used to herd stock in many parts of the world, Rottweilers are now also used as search and rescue dogs, guard dogs, and police dogs.",
+    "thumbnail_path": "raw-data/thumbnails/rottweilers.jpg"
+  },
+  {
+    "breed": "Pointers\u00a0(German\u00a0Shorthaired)",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Dachshunds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dachshund",
+    "description": "The dachshund  (UK:  DAKS-huund, -\u2060\u0259nd, -\u2060huunt or US:  DAHKS-huunt, -\u2060huund, -\u2060\u0259nt; German: 'badger dog'), also known as the wiener dog or sausage dog, badger dog and doxie, is a short-legged, long-bodied, hound-type dog breed. The dog may be smooth-haired, wire-haired, or long-haired, with varied coloration.",
+    "thumbnail_path": "raw-data/thumbnails/dachshunds.jpg"
+  },
+  {
+    "breed": "Pembroke\u00a0Welsh\u00a0Corgis",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pembroke_Welsh_Corgi",
+    "description": "The Pembroke Welsh Corgi (; Welsh for \"dwarf dog\") is a cattle herding dog breed that originated in Pembrokeshire, Wales. It is one of two breeds known as a Welsh Corgi, the other being the Cardigan Welsh Corgi. Pembroke Welsh Corgis descended from the Spitz family of dogs.",
+    "thumbnail_path": "raw-data/thumbnails/pembroke welsh corgis.jpg"
+  },
+  {
+    "breed": "Australian\u00a0Shepherds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Australian_Shepherd",
+    "description": "The Australian Shepherd is a breed of herding dog from the United States. The name of the breed is technically a misnomer, as it was developed in California in the 19th century. It is believed to have its origins in sheepdog breeds from northwest Spain, as well as collies imported, alongside sheep, from Australia and New Zealand; the breed reportedly took its name from this trade. Originally used solely as a herding dog, the Australian Shepherd has become one of the most popular companion dog breeds in North America.",
+    "thumbnail_path": "raw-data/thumbnails/australian shepherds.jpg"
+  },
+  {
+    "breed": "Yorkshire\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yorkshire_Terrier",
+    "description": "The Yorkshire Terrier, also known as a Yorkie, is a British breed of toy dog of terrier type. It is among the smallest of the terriers and indeed of all dog breeds, with a weight of no more than 3.2 kg (7 lb). It originated in the nineteenth century in the English county of Yorkshire, after which it is named. The coat is tan on the head and dark steel-grey on the body; no other colour is accepted by either The Kennel Club or the F\u00e9d\u00e9ration Cynologique Internationale.",
+    "thumbnail_path": "raw-data/thumbnails/yorkshire terriers.jpg"
+  },
+  {
+    "breed": "Boxers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boxer_(dog)",
+    "description": "The Boxer is a medium to large, short-haired dog breed of mastiff-type, developed in Germany. The coat is smooth and tight-fitting; colors are fawn or brindled, with or without white markings. Boxers are brachycephalic (they have broad, short skulls), have a square muzzle, mandibular prognathism (an underbite), very strong jaws, and a powerful bite ideal for hanging on to large prey. The Boxer was bred from the Old English Bulldog and the now extinct Bullenbeisser, which became extinct by crossbreeding rather than by a decadence of the breed. The Boxer is a member of both The Kennel Club and American Kennel Club (AKC) Working Group.",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Great\u00a0Danes",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Siberian\u00a0Huskies",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Cavalier\u00a0King\u00a0Charles\u00a0Spaniels",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cavalier_King_Charles_Spaniel",
+    "description": "The Cavalier King Charles Spaniel (CKCS) is a British breed of toy dog of spaniel type. Four colours are recognised: Blenheim (chestnut and white), tricolour (black/white/tan), black and tan, and ruby; the coat is smooth and silky. The lifespan is usually between eight and twelve years.",
+    "thumbnail_path": "raw-data/thumbnails/cavalier king charles spaniels.jpg"
+  },
+  {
+    "breed": "Doberman\u00a0Pinschers",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Miniature\u00a0Schnauzers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Miniature_Schnauzer",
+    "description": "The Miniature Schnauzer is a breed of small dog of the Schnauzer type that originated in Germany in the mid-to-late 19th century. Miniature Schnauzers may have been developed from the smallest specimens of the Standard Schnauzer, or crosses between the standard and one or more smaller breeds such as the Affenpinscher, Miniature Pinscher, and Poodles, as farmers bred a small dog that was an efficient ratting dog. They are described as \"spunky\" but aloof dogs, with good guarding tendencies without some guard dogs' predisposition to bite. Miniature Schnauzers are recognized in four colors internationally: solid black, black and silver, salt and pepper, and white.",
+    "thumbnail_path": "raw-data/thumbnails/miniature schnauzers.jpg"
+  },
+  {
+    "breed": "Shih\u00a0Tzu",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shih_Tzu",
+    "description": "The Shih Tzu (UK: , US: ) is a toy dog or pet dog breed originating from Tibet and believed to be bred from the Pekingese and the Lhasa Apso.",
+    "thumbnail_path": "raw-data/thumbnails/shih tzu.jpg"
+  },
+  {
+    "breed": "Boston\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boston_Terrier",
+    "description": "The Boston Terrier is a breed of dog originating in the United States of America. This \"American Gentleman\" was accepted in 1893 by the American Kennel Club as a non-sporting breed. Boston Terriers are small and compact with a short tail and erect ears.",
+    "thumbnail_path": "raw-data/thumbnails/boston terriers.jpg"
+  },
+  {
+    "breed": "Bernese\u00a0Mountain\u00a0Dogs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bernese_Mountain_Dog",
+    "description": "The Bernese Mountain Dog (German: Berner Sennenhund) is a large dog breed from Bern, Switzerland and the Swiss Alps, being one of the four breeds of Sennenhund-type dogs, with roots in the Roman mastiffs. The name Berner (or Bernese in English) refers to the breed's area of origin in the canton of Bern, and Sennenhund is derived from the German Senne (\"alpine pasture\") and Hund (\"hound/dog\"), as they accompanied the alpine herders and dairymen called Senn. This breed was originally kept as a general farm dog and large Sennenhunde in the past were also used as draft animals pulling carts. The breed was officially established in 1912.",
+    "thumbnail_path": "raw-data/thumbnails/bernese mountain dogs.jpg"
+  },
+  {
+    "breed": "Pomeranians",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pomeranian_dog",
+    "description": "The Pomeranian (also known as a Pom, Pommy or Pome) is a breed of dog of the Spitz type that is named for the Pomerania region in north-west Poland and north-east Germany in Central Europe. Classed as a toy dog breed because of its small size, the Pomeranian is descended from larger Spitz-type dogs, specifically the German Spitz.",
+    "thumbnail_path": "raw-data/thumbnails/pomeranians.jpg"
+  },
+  {
+    "breed": "Havanese",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Havanese_dog",
+    "description": "The Havanese, a bichon-type dog, is the national dog of Cuba, developed from the now extinct Blanquito de la Habana (\"little white dog of Havana\"). The Blanquito descended from the also now-extinct Bich\u00f3n Tenerife. It is believed that the Blanquito was eventually cross-bred with other bichon types, including the poodle, to create what is now known as the Havanese. They are sometimes referred to as \"Havana Silk Dogs\", but this is a separate breed, which has been bred to meet the original Cuban standards.",
+    "thumbnail_path": "raw-data/thumbnails/havanese.jpg"
+  },
+  {
+    "breed": "Cane\u00a0Corso",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cane_Corso",
+    "description": "The Cane Corso is an Italian breed of mastiff. It is usually kept as a companion dog or guard dog; it may also be used to protect livestock. In the past it was used for hunting large game, and also to herd cattle.",
+    "thumbnail_path": "raw-data/thumbnails/cane corso.jpg"
+  },
+  {
+    "breed": "Spaniels\u00a0(English\u00a0Springer)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/English_Water_Spaniel",
+    "description": "The English Water Spaniel is a breed of dog that has been extinct since the first part of the 20th century, with the last specimen seen in the 1930s. It was best known for its use in hunting waterfowl and for being able to dive as well as a duck. It is described as  similar to a Collie or to a cross between a Poodle and a Springer Spaniel with curly fur and typically in a white and liver/tan pattern.",
+    "thumbnail_path": "raw-data/thumbnails/spaniels (english springer).jpg"
+  },
+  {
+    "breed": "Shetland\u00a0Sheepdogs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shetland_Sheepdog",
+    "description": "The Shetland Sheepdog, also known as the Sheltie, is a breed of herding dog that originated in the Shetland Islands of Scotland. It was formally recognized by the Kennel Club in 1909. It was originally called the Shetland Collie, but this caused controversy amongst Rough Collie breeders of the time, so the name was changed. It is a small dog, clever, vocal, willing to please, and trustworthy.",
+    "thumbnail_path": "raw-data/thumbnails/shetland sheepdogs.jpg"
+  },
+  {
+    "breed": "Brittanys",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brittany_(dog)",
+    "description": "The Brittany Spaniel or Breton Spaniel (French: \u00c9pagneul Breton) is a French breed of gun dog of spaniel type, bred primarily for bird hunting.",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Pugs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pug",
+    "description": "The Pug is a breed of dog with the physically distinctive features of a wrinkly, short-muzzled face, and curled tail. An ancient breed, with roots dating back to 400 B.C., they have a fine, glossy coat that comes in a variety of colors, most often fawn (light brown) or black, and a compact, square body with well developed and thick muscles all over the body.",
+    "thumbnail_path": "raw-data/thumbnails/pugs.jpg"
+  },
+  {
+    "breed": "Spaniels\u00a0(Cocker)",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Miniature\u00a0American\u00a0Shepherds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Miniature_American_Shepherd",
+    "description": "The Miniature American Shepherd, frequently abbreviated MAS, is a small herding dog breed. The MAS is highly intelligent and biddable. The breed is often trained for dog sports such as herding, agility, obedience, canine freestyle, flyball, and others. The Miniature American Shepherd was recognised by the American Kennel Club (AKC) in 2015 and is the club's 186th breed. In September 2019, the F\u00e9d\u00e9ration Cynologique Internationale (FCI) officially accepted the breed.",
+    "thumbnail_path": "raw-data/thumbnails/miniature american shepherds.jpg"
+  },
+  {
+    "breed": "Border\u00a0Collies",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Mastiffs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mastiff",
+    "description": "A mastiff is a large and powerful type of dog. Mastiffs are among the largest dogs, and typically have a short coat, a long low-set tail and large feet; the skull is large and bulky, the muzzle broad and short (brachycephalic) and the ears drooping and pendant-shaped. European and Asian records dating back 3,000 years show dogs of the mastiff type. Mastiffs have historically been guard dogs, protecting homes and property, although throughout history they have been used as hunting dogs, war dogs and for blood sports, such as fighting each other and other animals, including bulls, bears and even lions.",
+    "thumbnail_path": "raw-data/thumbnails/mastiffs.jpg"
+  },
+  {
+    "breed": "Chihuahuas",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chihuahua_(dog)",
+    "description": "The Chihuahua (or Spanish: Chihuahue\u00f1o) is a Mexican breed of toy dog. It is named for the Mexican state of Chihuahua and is the smallest dog breed in the world. It is usually kept as a companion animal.",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Vizslas",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vizsla",
+    "description": "The Vizsla (Hungarian: [\u02c8vi\u0292l\u0252]), also known as Hungarian Vizsla, Magyar Vizsla or Hungarian Pointer, is a dog breed from Hungary and belongs to the F\u00e9d\u00e9ration Cynologique Internationale (FCI) group 7 (Pointing Dogs), the Canadian Kennel Club (CKC) group 1 (Sporting group), and the American Kennel Club (Sporting group). The Hungarian or Magyar Vizsla or Smooth-Haired Vizsla are sporting dogs and loyal companions. The Vizsla's medium size is one of the breed's most appealing characteristics. As a hunter of fowl and upland game, the Vizsla has held a prominent position among sporting dogs \u2013 that of household companion and family dog.",
+    "thumbnail_path": "raw-data/thumbnails/vizslas.jpg"
+  },
+  {
+    "breed": "Basset\u00a0Hounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Basset_Hound",
+    "description": "The Basset Hound is a short-legged breed of dog in the hound family. The Basset is a scent hound that was originally bred for the purpose of hunting hare. Their sense of smell and ability to ground-scent is second only to the Bloodhound.",
+    "thumbnail_path": "raw-data/thumbnails/basset hounds.jpg"
+  },
+  {
+    "breed": "Belgian\u00a0Malinois",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Maltese",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Maltese_dog",
+    "description": "Maltese dog refers both to an ancient variety of dwarf, white-coated dog breed from Italy and generally associated also with the island of Malta, and to a modern breed of similar dogs in the toy group, genetically related to the Bichon, Bolognese, and Havanese breeds. The precise link, if any, between the modern and ancient breeds is not known. Nicholas Cutillo suggested that Maltese dogs might descend from spitz-type canines, and that the ancient variety probably was similar to the latter Pomeranian breeds with their short snout, pricked ears, and bulbous heads. These two varieties, according to Stanley Coren, were perhaps the first dogs employed as human companions.",
+    "thumbnail_path": "raw-data/thumbnails/maltese.jpg"
+  },
+  {
+    "breed": "Weimaraners",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Weimaraner",
+    "description": "The Weimaraner is a German breed of hunting dog of medium to large size, with history going back at least to the nineteenth century.",
+    "thumbnail_path": "raw-data/thumbnails/weimaraners.jpg"
+  },
+  {
+    "breed": "Collies",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Newfoundlands",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Newfoundland_dog",
+    "description": "The Newfoundland is a large breed of working dog. They can be black, grey, brown, or black and white. However, in the Dominion of Newfoundland, before it became part of the confederation of Canada, only black and Landseer (white-and-black) coloured dogs were considered to be proper members of the breed. They were originally bred and used as working dogs for fishermen in Newfoundland.",
+    "thumbnail_path": "raw-data/thumbnails/newfoundlands.jpg"
+  },
+  {
+    "breed": "Rhodesian\u00a0Ridgebacks",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rhodesian_Ridgeback",
+    "description": "The Rhodesian Ridgeback is a large dog breed originally bred in Southern Africa. The original breed standard was drafted by F.R. Barnes, in Bulawayo, Southern Rhodesia (now Zimbabwe), in 1922, and approved by the South African Kennel Union in 1927. Its forebears can be traced to the ridged hunting and guardian dogs of the Khoikhoi. These were interbred with European dogs by the early colonists of the Cape Colony for assisting in the hunting of lions.",
+    "thumbnail_path": "raw-data/thumbnails/rhodesian ridgebacks.jpg"
+  },
+  {
+    "breed": "Shiba\u00a0Inu",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shiba_Inu",
+    "description": "The Shiba Inu (\u67f4\u72ac, Shiba Inu, Japanese: [\u0255iba in\u026f]) is a breed of hunting dog from Japan. A small-to-medium breed, it is the smallest of the six original dog breeds native to Japan. Its name literally translates to \"brushwood dog\", as it is used to flush game.",
+    "thumbnail_path": "raw-data/thumbnails/shiba inu.jpg"
+  },
+  {
+    "breed": "West\u00a0Highland\u00a0White\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/West_Highland_White_Terrier",
+    "description": "The West Highland White Terrier (commonly shortened to Westie) is a breed of dog from Scotland with a distinctive white harsh coat and somewhat soft white undercoat. It is a medium-sized terrier, though with longer legs than other Scottish terriers. It has a white double coat of fur which fills out the dog's face, giving it a rounded appearance.",
+    "thumbnail_path": "raw-data/thumbnails/west highland white terriers.jpg"
+  },
+  {
+    "breed": "Bichons\u00a0Frises",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Bloodhounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bloodhound",
+    "description": "The bloodhound is a large scent hound, originally bred for hunting deer, wild boar, rabbits, and since the Middle Ages, for tracking people.  Believed to be descended from hounds once kept at the Abbey of Saint-Hubert, Belgium, in French it is called, le chien de Saint-Hubert.",
+    "thumbnail_path": "raw-data/thumbnails/bloodhounds.jpg"
+  },
+  {
+    "breed": "Spaniels\u00a0(English\u00a0Cocker)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/English_Water_Spaniel",
+    "description": "The English Water Spaniel is a breed of dog that has been extinct since the first part of the 20th century, with the last specimen seen in the 1930s. It was best known for its use in hunting waterfowl and for being able to dive as well as a duck. It is described as  similar to a Collie or to a cross between a Poodle and a Springer Spaniel with curly fur and typically in a white and liver/tan pattern.",
+    "thumbnail_path": "raw-data/thumbnails/spaniels (english cocker).jpg"
+  },
+  {
+    "breed": "Akitas",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Akita_(dog)",
+    "description": "The Akita (\u79cb\u7530, Akita, Japanese pronunciation: [ak\u02b2ita]) is a Japanese  dog breed of large size. Originating from the mountains of northern Japan, the Akita has a short double coat similar to that of many other northern spitz breeds. Historically, they were used by matagi for guarding and the hunting of bears.",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Portuguese\u00a0Water\u00a0Dogs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Portuguese_Water_Dog",
+    "description": "The Portuguese Water Dog originated from the Algarve region of Portugal. From there the breed expanded to all around Portugal's coast, where they were taught to herd fish into fishermen's nets, retrieve lost tackle or broken nets, and act as couriers from ship to ship, or ship to shore.",
+    "thumbnail_path": "raw-data/thumbnails/portuguese water dogs.jpg"
+  },
+  {
+    "breed": "Retrievers\u00a0(Chesapeake\u00a0Bay)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chesapeake_Bay_Retriever",
+    "description": "The Chesapeake Bay Retriever is a large breed of dog belonging to the retriever, gundog, and sporting breed groups. The breed was developed in the United States Chesapeake Bay area during the 19th century. Historically used by local market hunters to retrieve waterfowl, pull fishing nets, and rescue fishermen, it is today primarily a family pet and hunting companion, known for a bright and happy disposition; courage; willingness to work; alertness; intelligence; love of water; and hunting capabilities. The Chesapeake is a medium- to large-sized dog similar in appearance to the Labrador Retriever, but with a wavy coat.",
+    "thumbnail_path": "raw-data/thumbnails/retrievers (chesapeake bay).jpg"
+  },
+  {
+    "breed": "Dalmatians",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dalmatian_(dog)",
+    "description": "The Dalmatian is a breed of dog with a white coat marked with dark-coloured spots. Originally bred as a hunting dog, it was also used as a carriage dog in its early days. The origins of this breed can be traced back to Croatia and its historical region of Dalmatia. It is thought that early ancestors of the breed were certain breeds of pointers and a spotted Great Dane. Today, it is a popular pet and many enthusiasts enter Dalmatians into kennel club competitions.",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "St.\u00a0Bernards",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/St._Bernard_(dog)",
+    "description": "The St. Bernard or Saint Bernard (UK: , US: ) is a breed of very large working dog from the Western Alps in Italy and Switzerland. They were originally bred for rescue work by the hospice of the Great St Bernard Pass on the Italian-Swiss border. The hospice, built by and named after the Alpine monk Saint Bernard of Menthon,",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Papillons",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Papillon_dog",
+    "description": "The Papillon (French pronunciation: [papij\u0254\u0303], French for 'butterfly[-eared]'), also called the Continental Toy Spaniel, is a breed of dog, of the spaniel type. One of the oldest of the toy spaniels, it derives its name from its characteristic butterfly-like look of the long and fringed hair on the ears. A Papillon with dropped ears is called a Phalene.",
+    "thumbnail_path": "raw-data/thumbnails/papillons.jpg"
+  },
+  {
+    "breed": "Australian\u00a0Cattle\u00a0Dogs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Australian_Cattle_Dog",
+    "description": "The Australian Cattle Dog, or simply Cattle Dog, is a breed of herding dog developed in Australia for droving cattle over long distances across rough terrain. This breed is a medium-sized, short-coated dog that occurs in two main colour forms. It has either red or black hair distributed fairly evenly through a white coat, which gives the appearance of a \"red\" or \"blue\" dog.",
+    "thumbnail_path": "raw-data/thumbnails/australian cattle dogs.jpg"
+  },
+  {
+    "breed": "Bullmastiffs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bullmastiff",
+    "description": "The Bullmastiff is an English breed of dog of mastiff type and large size, with a solid build and a short muzzle. It was developed as a guard dog in the nineteenth century by cross-breeding the English Mastiff with the now-extinct Old English Bulldog. It was recognised as a breed by The Kennel Club in 1924.",
+    "thumbnail_path": "raw-data/thumbnails/bullmastiffs.jpg"
+  },
+  {
+    "breed": "Samoyeds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Samoyed_dog",
+    "description": "The Samoyed ( SAM-\u0259-yed or  s\u0259-MOY-ed; Russian: \u0441\u0430\u043c\u043e\u0435\u0301\u0434\u0441\u043a\u0430\u044f \u0441\u043e\u0431\u0430\u0301\u043a\u0430, romanized: samoy\u00e9dskaya sob\u00e1ka, or \u0441\u0430\u043c\u043e\u0435\u0301\u0434, samoy\u00e9d) is a breed of medium-sized herding dogs with thick, white, double-layer coats. They are spitz-type dogs which take their name from the Samoyedic peoples of Siberia. Descending from the Nenets Herding Laika, they are domesticated animals that assist in herding, hunting, protection and sled-pulling.",
+    "thumbnail_path": "raw-data/thumbnails/samoyeds.jpg"
+  },
+  {
+    "breed": "Scottish\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scottish_Terrier",
+    "description": "The Scottish Terrier (Scottish Gaelic: Abhag Albannach; also known as the Aberdeen Terrier), popularly called the Scottie, is a breed of dog. Initially one of the highland breeds of terrier that were grouped under the name of Skye Terrier, it is one of five breeds of terrier that originated in Scotland, the other four being the modern Skye, Cairn, Dandie Dinmont, and West Highland White terriers. They are an independent and rugged breed with a wiry outer coat and a soft dense undercoat. The first Earl of Dumbarton nicknamed the breed \"the diehard\". According to legend, the Earl of Dumbarton gave this nickname because of the Scottish Terriers' bravery, and Scotties were also the inspiration for the name of his regiment, The Royal Scots, Dumbarton's Diehard. Scottish Terriers were originally bred to hunt vermin on farms.",
+    "thumbnail_path": "raw-data/thumbnails/scottish terriers.jpg"
+  },
+  {
+    "breed": "Soft\u00a0Coated\u00a0Wheaten\u00a0Terriers",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Whippets",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Whippet",
+    "description": "The whippet is a British breed of medium-sized dog, of the sighthound type, related to the larger greyhound and the smaller Italian greyhound. Apart from the differences in height, the whippet closely resembles these two breeds; it has sometimes been described as \"miniature greyhound\", and casually referred to as \"the poor man's racehorse\". It is kept as a companion dog, for competitive showing, as well as for amateur racing. Whippet also participate in dog sports such as lure coursing, agility, and flyball. It has the highest running-speed of any breed in its weight and size range, and may have the fastest idle-to-running acceleration of any dog. Whippet is known for its gentle, affectionate, and calm temperament, being relaxed and serene at home while showing high energy and excitement outdoors.",
+    "thumbnail_path": "raw-data/thumbnails/whippets.jpg"
+  },
+  {
+    "breed": "Pointers\u00a0(German\u00a0Wirehaired)",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Chinese\u00a0Shar-Pei",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Airedale\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Airedale_Terrier",
+    "description": "The Airedale Terrier (often shortened to \"Airedale\"), also called Bingley Terrier and Waterside Terrier, is a dog breed of the terrier type that originated in the valley (dale) of the River Aire, in the West Riding of Yorkshire, England. It is traditionally called the \"King of Terriers\" because it is the largest of the terrier breeds. The Airedale was bred from the Old English Black and Tan Terrier and the Otterhound and probably some other Terrier breeds, and has contributed to other dog breeds, such as the Yorkshire Terrier.",
+    "thumbnail_path": "raw-data/thumbnails/airedale terriers.jpg"
+  },
+  {
+    "breed": "Wirehaired\u00a0Pointing\u00a0Griffons",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wirehaired_Pointing_Griffon",
+    "description": "The Wirehaired Pointing Griffon (also called the Korthals  Griffon and the Griffon d'arr\u00eat \u00e0 poil dur Korthals in France and Quebec) is a breed of dog used in hunting as a gundog.  It is sometimes considered to be Dutch in ancestry, due to the nationality of the breed founder, Eduard Karel Korthals.  History records the progression of the development of the breed through Biebesheim am Rhein, Germany where the founder established the Ipenwoud kennel and the breed type was established and then into France where it is now recognized.  Others consider the Griffon to be a German breed because Korthals' kennel, Ipenwoud, was located in Biebesheim am Rhein, Germany.  It was there for over twenty years that Korthals dedicated his life to the development  and perfection of the Korthals Griffon.",
+    "thumbnail_path": "raw-data/thumbnails/wirehaired pointing griffons.jpg"
+  },
+  {
+    "breed": "Bull\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Pit_Bull_Terrier",
+    "description": "The American Pit Bull Terrier (APBT) is a dog breed recognized by the United Kennel Club (UKC) and the American Dog Breeders Association (ADBA), but not the American Kennel Club (AKC). It is a medium-sized, short-haired dog, of a solid build, whose early ancestors came from England. When compared with the English Staffordshire Bull Terrier, the American Pit Bull Terrier is larger by margins of 6\u20138 inches (15\u201320 cm) in height and 25\u201335 pounds (11\u201316 kg) in weight. The American Pit Bull Terrier varies in size: males are normally about 18\u201321 inches (45\u201353 cm) in height and around 35\u201360 pounds (15\u201327 kg) in weight, while females are normally around 17\u201320 inches (43\u201350 cm) in height and 30\u201350 pounds (13\u201322 kg) in weight.",
+    "thumbnail_path": "raw-data/thumbnails/bull terriers.jpg"
+  },
+  {
+    "breed": "Alaskan\u00a0Malamutes",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Cardigan\u00a0Welsh\u00a0Corgis",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cardigan_Welsh_Corgi",
+    "description": "The Cardigan Welsh corgi (; Welsh for \"dwarf dog\") is one of two different varieties of livestock-herding dog breeds known as Welsh corgis (originating in Wales), with the other being the Pembroke Welsh corgi. It is one of the oldest breeds of the British Isles. Cardigan Welsh corgis are known to be an extremely loyal and trainable dog breed, naturally attuned to herding many different animals, from poultry and waterfowl to large livestock such as sheep and cattle. They are also versatile and can live in a variety of settings.",
+    "thumbnail_path": "raw-data/thumbnails/cardigan welsh corgis.jpg"
+  },
+  {
+    "breed": "Giant\u00a0Schnauzers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Giant_Schnauzer",
+    "description": "The Giant Schnauzer is a breed of dog developed in the 17th century in Germany. It is the largest of the three breeds of Schnauzer\u2014the other two breeds being the Standard Schnauzer and the Miniature Schnauzer. Originally bred to assist on farms by driving livestock to market and guarding the farmer's property, the breed eventually moved into the city, where it worked guarding breweries, butchers' shops, stockyards and factories. It was unknown outside of Bavaria until it became popular as a military dog during World War I and World War II.",
+    "thumbnail_path": "raw-data/thumbnails/giant schnauzers.jpg"
+  },
+  {
+    "breed": "Old\u00a0English\u00a0Sheepdogs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Old_English_Sheepdog",
+    "description": "The Old English Sheepdog is a large breed of dog that emerged in England from early types of herding dog. Obsolete names for the breed include Shepherd's Dog and bob-tailed sheep-dog. The nickname Bob-tail (or Bobtail) originates from how dogs of the breed traditionally had their tails docked. Old English Sheepdogs can grow very long coats with fur covering the face and eyes and do not shed unless brushed.",
+    "thumbnail_path": "raw-data/thumbnails/old english sheepdogs.jpg"
+  },
+  {
+    "breed": "Italian\u00a0Greyhounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Italian_Greyhound",
+    "description": "The Italian Greyhound or Italian Sighthound (Italian: Piccolo levriero Italiano) is an Italian breed of small sighthound. It was bred to hunt hare and rabbit, but is kept mostly as a companion dog.",
+    "thumbnail_path": "raw-data/thumbnails/italian greyhounds.jpg"
+  },
+  {
+    "breed": "Great\u00a0Pyrenees",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Dogues\u00a0de\u00a0Bordeaux",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Russell\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jack_Russell_Terrier",
+    "description": "The Jack Russell Terrier is a British breed of small terrier. It is principally white-bodied and smooth-, rough- or broken-coated, and can be any colour.",
+    "thumbnail_path": "raw-data/thumbnails/russell terriers.jpg"
+  },
+  {
+    "breed": "Cairn\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cairn_Terrier",
+    "description": "The Cairn Terrier is a terrier breed originating in the Scottish Highlands and recognised as one of Scotland's earliest working dogs.",
+    "thumbnail_path": "raw-data/thumbnails/cairn terriers.jpg"
+  },
+  {
+    "breed": "Irish\u00a0Wolfhounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Irish_Wolfhound",
+    "description": "The Irish Wolfhound is a breed of large sighthound that has, by its presence and substantial size, inspired literature, poetry and mythology. One of the largest of all breeds of dog, the breed is used by coursing hunters who have prized it for its ability to dispatch game caught by other, swifter sighthounds. In 1902, the Irish Wolfhound was declared the regimental mascot of the Irish Guards.",
+    "thumbnail_path": "raw-data/thumbnails/irish wolfhounds.jpg"
+  },
+  {
+    "breed": "Setters\u00a0(Irish)",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Greater\u00a0Swiss\u00a0Mountain\u00a0Dogs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greater_Swiss_Mountain_Dog",
+    "description": "The Greater Swiss Mountain Dog (German: Grosser Schweizer Sennenhund or French: Grand Bouvier Suisse) is a dog breed which was developed in the Swiss Alps. The name Sennenhund refers to people called Senn or Senner, dairymen and herders in the Swiss Alps. Greater Swiss Mountain Dogs are almost certainly the result of indigenous dogs mating with large mastiff-type dogs brought to Switzerland by foreign settlers. It was assumed to have almost died out by the late 19th century, since its work was being done by other breeds or machines, but was rediscovered in the early 1900s.",
+    "thumbnail_path": "raw-data/thumbnails/greater swiss mountain dogs.jpg"
+  },
+  {
+    "breed": "Miniature\u00a0Pinschers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Miniature_Pinscher",
+    "description": "The Miniature Pinscher, also known as the Zwergpinscher and Mini Pin, is a small breed of dog of the pinscher type originating in Germany. While the breed's visual similarities to the Toy Manchester Terrier, which somewhat resembles the Pinscher breeds, remain a matter of controversy, genetic research (published in 2017) has shown that the two breeds have shared, unique ancestry. The ancestors of the Toy Manchester and Miniature Pinscher may have become geographically separated many centuries ago and retained similarities simply through breeding selection for the same traits; nevertheless, the 2017 research also showed that the two breeds remain more closely related to each other than to other breeds. The breed's ancestors may also include the German Pinscher, Italian greyhounds and dachshunds. The Miniature Pinscher's known origins are in Germany, where it was often referred to as the Zwerg Pinscher (Dwarf Biter) in historical documents. German Kennel Club documents also refer to the Miniature Pinscher as the \"reh\" Pinscher, but this term is only used for a dog of stag-red color, \"reh\" referring to a small red deer formerly found in German forests. The Miniature Pinscher originated several centuries ago as an efficient barnyard ratter.",
+    "thumbnail_path": "raw-data/thumbnails/miniature pinschers.jpg"
+  },
+  {
+    "breed": "Lhasa\u00a0Apsos",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lhasa_Apso",
+    "description": "The Lhasa Apso ( LAH-s\u0259 AP-soh) is a non-sporting dog breed originating in Tibet. Traditionally the breed has been used as an interior watchdog.",
+    "thumbnail_path": "raw-data/thumbnails/lhasa apsos.jpg"
+  },
+  {
+    "breed": "Chinese\u00a0Crested",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chinese_Crested_Dog",
+    "description": "The Chinese Crested Dog is a hairless breed of dog. Like most hairless dog breeds, the Chinese Crested Dog comes in two varieties, without hair and with hair, which can be born in the same litter: the hairless and the powderpuff.",
+    "thumbnail_path": "raw-data/thumbnails/chinese crested.jpg"
+  },
+  {
+    "breed": "Coton\u00a0de\u00a0Tulear",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Coton_de_Tulear",
+    "description": "The Coton de Tul\u00e9ar is a breed of small dog named for the city of Tul\u00e9ar (also known as Toliara) in Madagascar. This breed is thought to have originated from a group of small white dogs that swam across the Malagasy channel following a shipwreck. Known for its cotton-like coat, the Coton de Tul\u00e9ar typically grows to no more than 18 pounds (8.2 kg), and are white, sometimes with grey, tan, black, or tri-colored markings.",
+    "thumbnail_path": "raw-data/thumbnails/coton de tulear.jpg"
+  },
+  {
+    "breed": "Staffordshire\u00a0Bull\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Staffordshire_Bull_Terrier",
+    "description": "The Staffordshire Bull Terrier, also called the Staffy or Stafford, is a purebred dog of small to medium size in the terrier group that originated in the northern parts of Birmingham and in the Black Country of Staffordshire, for which it is named. They descended from 19th-century bull terriers that were developed by crossing bulldogs with various terriers to create a generic type of dog generally known as bull and terriers. Staffords share the same ancestry with the modern Bull Terrier, although the two breeds developed along independent lines, and do not resemble each other. Modern Staffords more closely resemble the old type of bull terrier, and were first recognised as a purebred dog breed by The Kennel Club of Great Britain in 1935.",
+    "thumbnail_path": "raw-data/thumbnails/staffordshire bull terriers.jpg"
+  },
+  {
+    "breed": "American\u00a0Staffordshire\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Staffordshire_Terrier",
+    "description": "The American Staffordshire Terrier, also known as the AmStaff, is a medium-sized, short-coated American dog breed recognized by the American Kennel Club, but not the United Kennel Club, which instead allows American Staffordshire Terriers to be registered under the American Pit Bull Terrier breed.",
+    "thumbnail_path": "raw-data/thumbnails/american staffordshire terriers.jpg"
+  },
+  {
+    "breed": "Rat\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rat_Terrier",
+    "description": "The Rat Terrier is an American dog breed with a background as a farm dog and hunting companion. They share much ancestry with the small hunting dogs known as feists. Common throughout family farms in the 1920s and 1930s, they are now recognized by the United (UKC) and American Kennel Clubs (AKC) and are considered a rare breed. Rat Terriers are an intelligent and active breed that can be kept both for pest control and as a family pet.",
+    "thumbnail_path": "raw-data/thumbnails/rat terriers.jpg"
+  },
+  {
+    "breed": "Chow\u00a0Chows",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chow_Chow",
+    "description": "The Chow Chow is a spitz-type of dog breed originally from Northern China. The Chow Chow is a sturdily built dog, square in profile, with a broad skull and small, triangular, erect ears with rounded tips. The breed is known for a very dense double coat that is either smooth or rough.:\u200a4\u20135\u200a The fur is particularly thick in the neck area, giving it a distinctive ruff or mane appearance. The coat may be shaded/self-red, black, blue, cinnamon/fawn, or cream.:\u200a4\u20135",
+    "thumbnail_path": "raw-data/thumbnails/chow chows.jpg"
+  },
+  {
+    "breed": "Anatolian\u00a0Shepherd\u00a0Dogs",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Basenjis",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Basenji",
+    "description": "The Basenji () is a breed of hunting dog, originally created from stock that originated in Central Africa, including in the Republic of the Congo and other adjacent tropical African countries. The F\u00e9d\u00e9ration Cynologique Internationale places the Basenji in the Spitz and \"primitive types\" categories, while the American Kennel Club classifies it as a hound. The breed does not bark in the traditional manner of most dogs, rather vocalising in an unusual, yodel-like \"talking\" sound, due to its unusually-shaped larynx. This trait earns the Basenji its nickname of \"barkless\" dog, a similar feature seen and heard in the New Guinea singing dog.",
+    "thumbnail_path": "raw-data/thumbnails/basenjis.jpg"
+  },
+  {
+    "breed": "Spaniels\u00a0(Boykin)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boykin_Spaniel",
+    "description": "The Boykin Spaniel is a medium-sized breed of dog, a Spaniel bred for hunting wild turkeys and ducks in the Wateree River Swamp of South Carolina, in the United States. It is the state dog of South Carolina, where it was discovered and further developed by hunters in the early through mid 1900s. September 1 is Boykin Spaniel Day in South Carolina, originally established in 1984.",
+    "thumbnail_path": "raw-data/thumbnails/spaniels (boykin).jpg"
+  },
+  {
+    "breed": "Lagotti\u00a0Romagnoli",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Brussels\u00a0Griffons",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Retrievers\u00a0(Nova\u00a0Scotia\u00a0Duck\u00a0Tolling)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nova_Scotia_Duck_Tolling_Retriever",
+    "description": "The Nova Scotia Duck Tolling Retriever is a medium-sized gundog bred primarily for hunting. It is often referred to as a \"toller\". It is the smallest of the retrievers, and is often mistaken for a small Golden Retriever. Tollers are intelligent, eager to please, alert, and energetic. The name \"toller\" is derived from their ability to lure waterfowl within gunshot range. The breed originated in Yarmouth County, Nova Scotia, Canada. The American Kennel Club ranks the toller as the 87th most popular dog breed.",
+    "thumbnail_path": "raw-data/thumbnails/retrievers (nova scotia duck tolling).jpg"
+  },
+  {
+    "breed": "Norwegian\u00a0Elkhounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Norwegian_Elkhound",
+    "description": "The Black Norwegian Elkhound (Norwegian Elghund Sort (NES) in Norwegian) is a small Spitz breed classified by the FCI as a hunting dog. It is currently an uncommon breed in Norway and very rare outside the Nordic countries of Scandinavia. It is a sibling breed to a Grey Norwegian Elkhound, but is smaller, more agile, doesn't bark and was bred  explicitly for on-leash dog hunting.",
+    "thumbnail_path": "raw-data/thumbnails/norwegian elkhounds.jpg"
+  },
+  {
+    "breed": "Standard\u00a0Schnauzers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Standard_Schnauzer",
+    "description": "The Schnauzer (German: [\u02c8\u0283na\u028a\u032ft\u0361s\u0250] ) or Mittelschnauzer is a German breed of dog in the Pinscher and Schnauzer group. It is characterised by an abundant bristly beard and whiskers, usually lighter than the coat. It is one of three Schnauzer breeds, the others being the Giant Schnauzer or Riesenschnauzer, and the Miniature Schnauzer or Zwergschnauzer. In Germany it is an endangered breed, and is listed in category III of the Rote Liste of the Gesellschaft zur Erhaltung alter und gef\u00e4hrdeter Haustierrassen.",
+    "thumbnail_path": "raw-data/thumbnails/standard schnauzers.jpg"
+  },
+  {
+    "breed": "Dogo\u00a0Argentinos",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dogo_Argentino",
+    "description": "The Dogo Argentino (plural Dogos Argentinos) is an Argentine breed of large dog of mastiff type. It was bred in the early twentieth century in C\u00f3rdoba in central Argentina, primarily for hunting large game such as peccaries, wild boar, and pumas.:\u200a146\u200a:\u200a340\u200a:\u200a189\u200a:\u200a140\u200a The foundation stock included the now extinct C\u00f3rdoba fighting dog, a fighting dog of bulldog type, a Bull Terrier and a Mast\u00edn del Pirineo.:\u200a338\u200a:\u200a21",
+    "thumbnail_path": "raw-data/thumbnails/dogo argentinos.jpg"
+  },
+  {
+    "breed": "Bouviers\u00a0des\u00a0Flandres",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Pekingese",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pekingese",
+    "description": "The Pekingese (also spelled Pekinese) is a breed of toy dog, originating in China. The breed was favored by royalty of the Chinese Imperial court as a companion dog, and its name refers to the city of Beijing (Peking) where the Forbidden City is located. The breed has several characteristics and health issues related to its unique appearance. Because of its desirable characteristics, the Pekingese has been part of the development of designer crossbreeds, such as the Peekapoo (crossed with a poodle) and Peke-a-tese (crossed with a Maltese).",
+    "thumbnail_path": "raw-data/thumbnails/pekingese.jpg"
+  },
+  {
+    "breed": "Keeshonden",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Border\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Border_Terrier",
+    "description": "The Border Terrier is a British breed of small, rough-coated terrier. It originates from the area of the Anglo-Scottish border, and shares ancestry with the Dandie Dinmont Terrier and the Bedlington Terrier from the same area. The dogs were traditionally used in fox-hunting, and worked with the Border Hunt in Northumberland.",
+    "thumbnail_path": "raw-data/thumbnails/border terriers.jpg"
+  },
+  {
+    "breed": "Leonbergers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Leonberger",
+    "description": "The Leonberger is a giant dog breed, whose name derives from the city of Leonberg in Baden-W\u00fcrttemberg, Germany.",
+    "thumbnail_path": "raw-data/thumbnails/leonbergers.jpg"
+  },
+  {
+    "breed": "Tibetan\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tibetan_Terrier",
+    "description": "The Tibetan Terrier is a medium-sized breed of dog that originated in Tibet. Despite its name, it is not a member of the terrier group. The breed was given its English name by European travelers due to its resemblance to known terrier breeds. The Tibetan name for the breed, Tsang Apso, roughly translates to \"shaggy or bearded (\"apso\") dog, from the province of Tsang\". Some old travelers' accounts refer to the dog as Dokhi Apso or \"outdoor\" Apso, indicating a shaggy or bearded working dog which lives outdoors.",
+    "thumbnail_path": "raw-data/thumbnails/tibetan terriers.jpg"
+  },
+  {
+    "breed": "Neapolitan\u00a0Mastiffs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Neapolitan_Mastiff",
+    "description": "The Neapolitan Mastiff or Mastino Napoletano is an Italian breed of large dog of mastiff type. It descends from the traditional guard dogs of central Italy. It was recognised as a breed by the Ente Nazionale della Cinofilia Italiana in 1949, and accepted by the F\u00e9d\u00e9ration Cynologique Internationale in 1956.",
+    "thumbnail_path": "raw-data/thumbnails/neapolitan mastiffs.jpg"
+  },
+  {
+    "breed": "Setters\u00a0(English)",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Retrievers\u00a0(Flat-Coated)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Flat-coated_Retriever",
+    "description": "The Flat-coated Retriever is a gun dog breed originating from England. It was developed as a retriever both on land and in the water.",
+    "thumbnail_path": "raw-data/thumbnails/retrievers (flat-coated).jpg"
+  },
+  {
+    "breed": "Borzois",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Borzoi",
+    "description": "The Borzoi or Russian Hunting Sighthound is a Russian breed of hunting dog of sighthound type. It was formerly used for wolf hunting,:\u200a125\u200a and until 1936 was known as the Russian Wolfhound.:\u200a130",
+    "thumbnail_path": "raw-data/thumbnails/borzois.jpg"
+  },
+  {
+    "breed": "Fox\u00a0Terriers\u00a0(Wire)",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Miniature\u00a0Bull\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Miniature_Bull_Terrier",
+    "description": "The English Miniature Bull Terrier is a breed with origins in the extinct English White Terrier, the Dalmatian and the Bulldog. The first existence is documented in 1872 in The Dogs of British Island.",
+    "thumbnail_path": "raw-data/thumbnails/miniature bull terriers.jpg"
+  },
+  {
+    "breed": "Belgian\u00a0Tervuren",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Setters\u00a0(Gordon)",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Silky\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Australian_Silky_Terrier",
+    "description": "The Australian Silky Terrier or simply Silky Terrier (depending on the breed registry) is a small breed of dog of the terrier dog type. The breed was developed in Australia, although the ancestral types and breeds were from Great Britain. It is closely related to the Australian Terrier and the Yorkshire Terrier. The breed is called the Silky Terrier in North America, but is called the Australian Silky Terrier in its country of origin and in the rest of the world.",
+    "thumbnail_path": "raw-data/thumbnails/silky terriers.jpg"
+  },
+  {
+    "breed": "Norwich\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Norwich_Terrier",
+    "description": "The Norwich Terrier is a breed of dog originating in England, and was bred to hunt small rodents. One of the smallest terriers, these dogs are relatively rare. Their drop-eared variety is the Norfolk Terrier.",
+    "thumbnail_path": "raw-data/thumbnails/norwich terriers.jpg"
+  },
+  {
+    "breed": "Spinoni\u00a0Italiani",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Japanese\u00a0Chin",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Japanese_Chin",
+    "description": "The Japanese Chin (Japanese: \u72c6, chin), also known as the Japanese Spaniel, is a toy dog breed, being both a lap dog and a companion dog, with a distinctive heritage.",
+    "thumbnail_path": "raw-data/thumbnails/japanese chin.jpg"
+  },
+  {
+    "breed": "Welsh\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Welsh_Terrier",
+    "description": "The Welsh Terrier (Welsh: Daeargi Cymreig) also known as the Welshie, is believed to have originated in the 1700s in Wales and was originally bred for hunting fox, rodents and badger; in the remote mountains of northern Wales, but during the last century, it has mainly been bred for showing. Despite this, it has retained its terrier strength of character. The Welsh Terrier has been claimed to be the oldest existing dog breed in the UK.",
+    "thumbnail_path": "raw-data/thumbnails/welsh terriers.jpg"
+  },
+  {
+    "breed": "Toy\u00a0Fox\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Toy_Fox_Terrier",
+    "description": "The Toy Fox Terrier is a small terrier breed of dog, directly descended from the larger Smooth Fox Terrier but since 1936, it has been registered in the United States with the UKC as a separate breed.",
+    "thumbnail_path": "raw-data/thumbnails/toy fox terriers.jpg"
+  },
+  {
+    "breed": "Schipperkes",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Parson\u00a0Russell\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Parson_Russell_Terrier",
+    "description": "The Parson Russell Terrier is a breed of small white terrier that was the original Fox Terrier of the 18th century. The breed is named after the Reverend Jack Russell, credited with the creation of this type of dog. It is the recognised conformation show variety of the Jack Russell Terrier and was first recognised in 1990 in the United Kingdom as the Parson Jack Russell Terrier. In America, it was first recognised as the Jack Russell Terrier in 1997. The name was changed to its current form in 1999 in the UK and by 2008 all international kennel clubs recognised it under the new name.",
+    "thumbnail_path": "raw-data/thumbnails/parson russell terriers.jpg"
+  },
+  {
+    "breed": "Pointers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pointing_dog",
+    "description": "Pointing dogs, sometimes called bird dogs, are a type of gundog typically used in finding game. Gundogs are traditionally divided into three classes: retrievers, flushing dogs, and pointing breeds. The name pointer comes from the dog's instinct to point, by stopping and aiming its muzzle towards game. This demonstrates to the hunter the location of their quarry and allows them to move into gun range. Pointers were selectively bred from dogs who had abundant pointing and backing instinct. They typically start to acquire their hunting instincts at about 2 months of age.",
+    "thumbnail_path": "raw-data/thumbnails/pointers.jpg"
+  },
+  {
+    "breed": "Belgian\u00a0Sheepdogs",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Tibetan\u00a0Spaniels",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tibetan_spaniel",
+    "description": "The Tibetan Spaniel is a breed of assertive, small dogs originating in Tibet. This breed is not a spaniel in the original meaning of the term; its breeding differs from other spaniels, and unlike true spaniels, which are gun dogs, the Tibetan spaniel is a companion dog. The spaniel name may have been given due to its resemblance to the bred-down lapdog versions of the hunting spaniels, such as the Cavalier King Charles Spaniel.",
+    "thumbnail_path": "raw-data/thumbnails/tibetan spaniels.jpg"
+  },
+  {
+    "breed": "American\u00a0Eskimo\u00a0Dogs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Eskimo_Dog",
+    "description": "The American Eskimo Dog is a breed of companion dog, originating in Germany. The American Eskimo Dog is a member of the Spitz family. The breed's progenitors were German Spitz, but due to anti-German sentiment during the First World War, it was renamed \"American Eskimo Dog.\" Although modern American Eskimo Dogs have been exported as German Spitz Gross (or Mittel, depending on the dog's height), the breeds have diverged and the standards are significantly different. In addition to serving as a watchdog and companion, the American Eskimo Dog also achieved a high degree of popularity in the United States in the 1930s and 1940s as a circus performer.",
+    "thumbnail_path": "raw-data/thumbnails/american eskimo dogs.jpg"
+  },
+  {
+    "breed": "Irish\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Irish_Terrier",
+    "description": "The Irish Terrier (Irish: Brocaire Rua) is a dog breed from Ireland, one of many breeds of terrier. The Irish Terrier is considered one of the oldest terrier breeds. The Dublin dog show in 1873 was the first to provide a separate class for Irish Terriers. By the 1880s, Irish Terriers were the fourth most popular breed in Great Britain and Ireland.",
+    "thumbnail_path": "raw-data/thumbnails/irish terriers.jpg"
+  },
+  {
+    "breed": "Beaucerons",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Beauceron",
+    "description": "The Beauceron (French pronunciation: [bos\u0281\u0254\u0303] ) is a herding dog breed originating from the plains of Central France. The Beauceron is also known as Berger de Beauce (French pronunciation: [b\u025b\u0281\u0292e d\u0259 bos], sheepdog from Beauce) or Bas Rouge (French pronunciation: [ba \u0281u\u0292], red-stockings).",
+    "thumbnail_path": "raw-data/thumbnails/beaucerons.jpg"
+  },
+  {
+    "breed": "Afghan\u00a0Hounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Afghan_Hound",
+    "description": "The Afghan Hound is a hound distinguished by its thick, fine, silky coat, and a tail with a ring curl at the end. The breed originates in the cold mountains of Afghanistan. Its local name is Sag-e T\u0101z\u012b (Dari: \u0633\u06af \u062a\u0627\u0632\u06cc) or T\u0101\u017e\u012b Spay (Pashto: \u062a\u0627\u0698\u064a \u0633\u067e\u06cc). Other names for this breed are T\u0101z\u012b, Balkh Hound, Baluchi Hound, and Barakzai Hound.",
+    "thumbnail_path": "raw-data/thumbnails/afghan hounds.jpg"
+  },
+  {
+    "breed": "Boerboels",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Boerboel",
+    "description": "The Boerboel (pronounced [\u02c8bu\u02d0rbul]) is a South African breed of large dog of mastiff type, used as a family guard dog. It is large, with a short coat, strong bone structure and well-developed muscles.",
+    "thumbnail_path": "raw-data/thumbnails/boerboels.jpg"
+  },
+  {
+    "breed": "Fox\u00a0Terriers\u00a0(Smooth)",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Bearded\u00a0Collies",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Black\u00a0Russian\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Russian_Terrier",
+    "description": "The Black Russian Terrier (Russian: \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0447\u0451\u0440\u043d\u044b\u0439 \u0442\u0435\u0440\u044c\u0435\u0440), also known as the Chornyi Terrier (chornyi being Russian for black), is a breed of dog from the USSR. It was originally bred in the Red Star (Krasnaya Zvezda) Kennel during the late 1940s and the early 1950s for use as a military/working dog. The Black Russian Terrier is a breed recognized by the FCI (September 1983), AKC (July 2004), CKC, KC, ANKC, NZKC and other cynological organizations. The contemporary Black Russian Terrier is a working dog, guarding dog, sporting and companion dog.",
+    "thumbnail_path": "raw-data/thumbnails/black russian terriers.jpg"
+  },
+  {
+    "breed": "Black\u00a0and\u00a0Tan\u00a0Coonhounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_and_Tan_Coonhound",
+    "description": "The Black and Tan Coonhound is a breed of hunting dog.  Developed in the United States from crosses between the Bloodhound and the Black and Tan Virginia Foxhound, this scent hound runs its game entirely by scent and is used primarily for raccoon hunting.",
+    "thumbnail_path": "raw-data/thumbnails/black and tan coonhounds.jpg"
+  },
+  {
+    "breed": "Spaniels\u00a0(Welsh\u00a0Springer)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Welsh_Springer_Spaniel",
+    "description": "The Welsh Springer Spaniel (Welsh: Llamgi Cymru) is a breed of dog and a member of the spaniel family. Thought to be comparable to the old Land Spaniel, they are similar to the English Springer Spaniel and historically have been referred to as both the Welsh Spaniel and the Welsh Cocker Spaniel. They were relatively unknown until a succession of victories in dog trials by the breed increased its popularity. Following recognition by The Kennel Club in 1902, the breed gained the modern name of Welsh Springer Spaniel. The breed's coat only comes in a single colour combination of white with red markings, usually in a piebald pattern. Loyal and affectionate, they can become very attached to family members and are wary of strangers. Health conditions are limited to those common among many breeds of dog, although they are affected more than average by hip dysplasia and some eye conditions. They are a working dog, bred for hunting, and while not as rare as some varieties of spaniel, they are rarer than the more widely known English Springer Spaniel with which they are sometimes confused.",
+    "thumbnail_path": "raw-data/thumbnails/spaniels (welsh springer).jpg"
+  },
+  {
+    "breed": "American\u00a0Hairless\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Hairless_Terrier",
+    "description": "The American Hairless Terrier is a breed of companion dog from the United States that was developed from naturally hairless Rat Terriers.",
+    "thumbnail_path": "raw-data/thumbnails/american hairless terriers.jpg"
+  },
+  {
+    "breed": "Norfolk\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Norfolk_Terrier",
+    "description": "The Norfolk Terrier is a British breed of dog. Prior to gaining recognition as an independent breed in 1964, it was a variety of the Norwich Terrier, distinguished from the \"prick eared\" Norwich by its \"drop ears\" (or folded ears). Together, the Norfolk and Norwich Terriers are the smallest of the working terriers.",
+    "thumbnail_path": "raw-data/thumbnails/norfolk terriers.jpg"
+  },
+  {
+    "breed": "Xoloitzcuintli",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Manchester\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Manchester_Terrier",
+    "description": "The Manchester Terrier is a breed of dog of the smooth-haired terrier type. It was first bred in the 19th century to control vermin, notably rats, at which it excelled. So efficient at the task was it that it often appeared in rat-baiting pits until that sport, which had effectively been illegal in the UK since 1835, finally died out at the beginning of the 20th century.",
+    "thumbnail_path": "raw-data/thumbnails/manchester terriers.jpg"
+  },
+  {
+    "breed": "Kerry\u00a0Blue\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kerry_Blue_Terrier",
+    "description": "The Kerry Blue Terrier (also known as the Irish Blue Terrier) (Irish: An Brocaire Gorm) is a breed of dog. Originally bred to control vermin including rats, rabbits, badgers, ferrets, foxes, otters, hares, deer, and even wolves, over time the Kerry became a general working dog used for a variety of jobs including herding cattle and sheep. Despite a Kerry Blue winning Crufts (the most prestigious UK dog show) in 2000, it remains an \"unfashionable\" breed, and is distinctly uncommon; however, it is not as threatened as some of the other terrier breeds such as the Skye Terrier, Sealyham Terrier, and Dandie Dinmont Terrier.",
+    "thumbnail_path": "raw-data/thumbnails/kerry blue terriers.jpg"
+  },
+  {
+    "breed": "Australian\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Australian_Silky_Terrier",
+    "description": "The Australian Silky Terrier or simply Silky Terrier (depending on the breed registry) is a small breed of dog of the terrier dog type. The breed was developed in Australia, although the ancestral types and breeds were from Great Britain. It is closely related to the Australian Terrier and the Yorkshire Terrier. The breed is called the Silky Terrier in North America, but is called the Australian Silky Terrier in its country of origin and in the rest of the world.",
+    "thumbnail_path": "raw-data/thumbnails/australian terriers.jpg"
+  },
+  {
+    "breed": "Spaniels\u00a0(Clumber)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Clumber_Spaniel",
+    "description": "The Clumber Spaniel is a breed of dog of the spaniel type, developed in the United Kingdom. It is the largest of the spaniels, and comes in predominantly white with either lemon or orange markings. The name of the breed is taken from Clumber Park in Nottinghamshire where the breed was first developed. It is a gundog that specialises in hunting in heavy cover. They are gentle and loyal, and can act aloof with strangers. They have several habits which could be considered disadvantages, including a constant shedding of its coat and snoring.",
+    "thumbnail_path": "raw-data/thumbnails/spaniels (clumber).jpg"
+  },
+  {
+    "breed": "Lakeland\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lakeland_Terrier",
+    "description": "The Lakeland Terrier is a dog breed, which takes its name from its place of origin, the Lake District  in England. The dog is a small to mid-size member of the Terrier family. While independent in personality, it interacts well with owners and all family members. In the United Kingdom, the Lakeland Terrier is considered a vulnerable dog breed at risk of going extinct through low levels of breeding, according to The Kennel Club. In the United States, the Lakeland Terrier ranked 148 out of 193 breeds by number of American Kennel Club puppy registrations in 2019.",
+    "thumbnail_path": "raw-data/thumbnails/lakeland terriers.jpg"
+  },
+  {
+    "breed": "Bluetick\u00a0Coonhounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bluetick_Coonhound",
+    "description": "The Bluetick Coonhound is a breed of coonhound originating in the United States. The Bluetick Coonhound is known for its friendly personality, cold nose, and deep bawl mouth. It is most commonly used as a raccoon hunting dog, but is also kept as a pet.",
+    "thumbnail_path": "raw-data/thumbnails/bluetick coonhounds.jpg"
+  },
+  {
+    "breed": "English\u00a0Toy\u00a0Spaniels",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/English_Water_Spaniel",
+    "description": "The English Water Spaniel is a breed of dog that has been extinct since the first part of the 20th century, with the last specimen seen in the 1930s. It was best known for its use in hunting waterfowl and for being able to dive as well as a duck. It is described as  similar to a Collie or to a cross between a Poodle and a Springer Spaniel with curly fur and typically in a white and liver/tan pattern.",
+    "thumbnail_path": "raw-data/thumbnails/english toy spaniels.jpg"
+  },
+  {
+    "breed": "German\u00a0Pinschers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/German_Pinscher",
+    "description": "The German Pinscher or Deutscher Pinscher is a German breed of terrier in the  Pinscher and Schnauzer group.:\u200a218\u200a It shares common origins with the Schnauzer, of which it is essentially a short-haired equivalent. It is seen in two colours, either black-and-tan or self-coloured red, this varying from deer-red to a dark reddish brown.",
+    "thumbnail_path": "raw-data/thumbnails/german pinschers.jpg"
+  },
+  {
+    "breed": "Tibetan\u00a0Mastiffs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tibetan_Mastiff",
+    "description": "The Tibetan Mastiff is a large Tibetan dog breed. Its double coat is medium to long, subject to climate, and found in a wide variety of colors, including solid black, black and tan, various shades of red (from pale gold to deep red) and bluish-gray (dilute black), and sometimes with white markings around its neck, chest and legs.",
+    "thumbnail_path": "raw-data/thumbnails/tibetan mastiffs.jpg"
+  },
+  {
+    "breed": "Bedlington\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bedlington_Terrier",
+    "description": "The Bedlington Terrier is a breed of small dog named after the mining town of Bedlington, Northumberland in North East England.  Originally bred to hunt, the Bedlington Terrier has since been used in dog racing, numerous dog sports, as well as in conformation shows and as a companion dog. It is closely related to the Dandie Dinmont Terrier, Whippet and Otterhound.",
+    "thumbnail_path": "raw-data/thumbnails/bedlington terriers.jpg"
+  },
+  {
+    "breed": "Greyhounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Greyhound",
+    "description": "The English Greyhound, or simply the Greyhound, is a breed of dog, a sighthound which has been bred for coursing, greyhound racing and hunting. Since the rise in large-scale adoption of retired racing Greyhounds, the breed has seen a resurgence in popularity as a family pet.",
+    "thumbnail_path": "raw-data/thumbnails/greyhounds.jpg"
+  },
+  {
+    "breed": "Pulik",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Salukis",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Saluki",
+    "description": "The Saluki (Arabic: \u0633\u0644\u0648\u0642\u064a) is a standardised breed developed from sighthounds \u2013 dogs that hunt primarily by sight rather than strong scent \u2013 that was once used by nomadic tribes to run down game animals. The dog was originally bred in the Fertile Crescent. The modern breed is typically deep-chested and long-legged, and similar dogs appear in medieval and ancient art. The breed is most closely related to the Afghan hound, a basal breed that predates the emergence of modern breeds in the 19th century, and the Saluki has been purebred both in the Middle East, including by royalty, since at least that era, and in the West (especially in Britain and Germany) since the 1840s (with breed standards established in the West and the Middle East around the 1920s\u20131930s), though as a free-breeding landrace, similar dogs are common as feral animals in the Middle East. A related standardised breed is the north African Sloughi.",
+    "thumbnail_path": "raw-data/thumbnails/salukis.jpg"
+  },
+  {
+    "breed": "Barbets",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Barbet_(dog)",
+    "description": "The Barbet is a medium-sized breed of French water dog. It is a rare breed. The breed's name comes from the French word barbe, meaning 'beard'.",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Redbone\u00a0Coonhounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Redbone_Coonhound",
+    "description": "The Redbone Coonhound is an American breed of hunting dog. As a coonhound, the Redbone is primarily a hunter of small game that hide in trees, such as raccoons, opossums, and squirrels, but is also capable of handling big game like bears and cougars. Its hunting strategy is to tree wild game where hunters can then shoot the target, rather than directly hunting and subduing the prey.",
+    "thumbnail_path": "raw-data/thumbnails/redbone coonhounds.jpg"
+  },
+  {
+    "breed": "Swedish\u00a0Vallhunds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Swedish_Vallhund",
+    "description": "The Swedish Vallhund, also known as the V\u00e4stg\u00f6taspets and Swedish cow dog, is a breed of dog native to Sweden. The breed's name, Vallhund, when translated into English, means herding dog, as the Swedish Vallhund was originally bred as a drover and herder of cows over 1,000 years ago. In 1942, the dog came close to extinction, but careful breeding and publicity by Swedish national Bj\u00f6rn von Rosen and K. G. Zettersten managed to revive the breed in popularity and save it from its likely end. In 1943, the Swedish Kennel Club recognized the Swedish Vallhund as a breed, and officially categorized the Swedish Vallhund as \"the V\u00e4stg\u00f6taspets\" for V\u00e4sterg\u00f6tland, the province in which their revival took place. Since then, the breed has been recognized by, and bred in, over ten countries and has gained some popularity.",
+    "thumbnail_path": "raw-data/thumbnails/swedish vallhunds.jpg"
+  },
+  {
+    "breed": "Sealyham\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sealyham_Terrier",
+    "description": "The Sealyham Terrier (Welsh: Daeargi Sealyham) is a rare Welsh breed of small to medium-sized terrier that originated in Wales as a working dog.  It is principally a white-bodied, rough-coated breed, developed in the mid-to-late-19th century by Captain John Edwardes at Sealyham House, Pembrokeshire.",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Spanish\u00a0Water\u00a0Dogs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spanish_Water_Dog",
+    "description": "The Spanish Water Dog (perro de agua espa\u00f1ol) breed is used in Spain as a general purpose sheepdog and guard. It is also used sometimes as a gundog, and is skilled at retrieval from water.",
+    "thumbnail_path": "raw-data/thumbnails/spanish water dogs.jpg"
+  },
+  {
+    "breed": "Briards",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Briard",
+    "description": "The Briard (pronounced [b\u0281ija\u0281] ):\u200a108\u200a or Berger de Brie (pronounced [b\u025b\u0281\u0292e d\u0259 b\u0281i];:\u200a89\u200a plural: Bergers de Brie) is a French breed of large shepherd dog, traditionally used both for herding sheep and to defend them. It was first shown at the first Paris dog show, in 1863; the first Briard to be registered in the Livre des Origines Fran\u00e7aises, the national stud-book, was Sans G\u00eane in 1885. It was in the past also known as the Chien de Berger fran\u00e7ais de Plaine.",
+    "thumbnail_path": "raw-data/thumbnails/briards.jpg"
+  },
+  {
+    "breed": "Berger\u00a0Picards",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Berger_Picard",
+    "description": "The Berger Picard ( bair-ZHAY pih-KAR, French: [b\u025b\u0281\u0292e pika\u0281]) or Picardy Shepherd, is a French herding dog originating in Picardy. These dogs nearly became extinct after both World War I and World War II and remain a rare breed.",
+    "thumbnail_path": "raw-data/thumbnails/berger picards.jpg"
+  },
+  {
+    "breed": "Entlebucher\u00a0Mountain\u00a0Dogs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Entlebucher_Mountain_Dog",
+    "description": "The Entlebucher Sennenhund or Entlebucher Mountain Dog is a medium-sized herding dog, it is the smallest of the four regional breeds that constitute the Sennenhund dog type. The name Sennenhund refers to people called Senn, herders in the Swiss Alps. Entlebuch is a region in the canton of Lucerne in Switzerland. The breed is also known in English as the Entelbuch Mountain Dog, Entelbucher Cattle Dog,  and similar combinations.",
+    "thumbnail_path": "raw-data/thumbnails/entlebucher mountain dogs.jpg"
+  },
+  {
+    "breed": "Treeing\u00a0Walker\u00a0Coonhounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Treeing_Walker_Coonhound",
+    "description": "The Treeing Walker Coonhound is a breed of hound descended from the English and American Foxhounds. The breed originated in the United States when a stolen dog known as \"Tennessee Lead\" was crossed into the Walker Hound in the 19th century. The Treeing Walker Coonhound was recognized officially as a breed by the United Kennel Club in 1945 and by the American Kennel Club in 2012.",
+    "thumbnail_path": "raw-data/thumbnails/treeing walker coonhounds.jpg"
+  },
+  {
+    "breed": "Icelandic\u00a0Sheepdogs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Icelandic_Sheepdog",
+    "description": "The Icelandic Sheepdog (Icelandic: \u00cdslenskur fj\u00e1rhundur,  pronounced [\u02c8istl\u025bnsk\u028fr \u02c8fjaur\u02cch\u028fnt\u028fr\u0325]), is an Icelandic breed of dog of Nordic Spitz type. It derives from dogs brought to Iceland by Viking settlers in the ninth century; it is both similar and closely related to the Buhund of Norway and the Vallhund and Norrbotten of Sweden, which  derive from the same ancestral stock.",
+    "thumbnail_path": "raw-data/thumbnails/icelandic sheepdogs.jpg"
+  },
+  {
+    "breed": "Wirehaired\u00a0Vizslas",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wirehaired_Vizsla",
+    "description": "The Hungarian Wirehaired Vizsla  is a Hungarian breed of pointer dog. The Hungarian name, Dr\u00f3tsz\u0151r\u0171 magyar vizsla, is translated as Hungarian Wirehaired Pointer.",
+    "thumbnail_path": "raw-data/thumbnails/wirehaired vizslas.jpg"
+  },
+  {
+    "breed": "Pumik",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Portuguese\u00a0Podengo\u00a0Pequenos",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Portuguese_Podengo",
+    "description": "The Portuguese Podengo, also known as the Podengo Portugu\u00eas or Portuguese Warren Hound, is a hound (sight and scent) breed from Portugal and Brazil. As a breed, the Podengo is divided into three size categories that are not interbred: small (Pequeno), medium (M\u00e9dio) and large (Grande). Their coats are either short and 'smooth', or longer and 'wired'. The smooth coated variety is traditional, whereas the wire coated variety is an outcome of the assimilation of various other breeds during the 20th century. In general, the breed is healthy; the Pequeno (small) variety has an average lifespan of approximately 15\u201317 years.",
+    "thumbnail_path": "raw-data/thumbnails/portuguese podengo pequenos.jpg"
+  },
+  {
+    "breed": "Spaniels\u00a0(American\u00a0Water)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Water_Spaniel",
+    "description": "The American Water Spaniel (often abbreviated to AWS) is a breed of spaniel which originated in the United States. It was developed in the state of Wisconsin during the 19th century from a number of other breeds, including the Irish and English Water Spaniels. The breed was saved by Dr. Fred J. Pfeifer, who set up the breed club and standard, and whose work led to recognition for the breed by the United Kennel Club, and later, the American Kennel Club. While they are the state dog of Wisconsin, they remain a rare breed.",
+    "thumbnail_path": "raw-data/thumbnails/spaniels (american water).jpg"
+  },
+  {
+    "breed": "Retrievers\u00a0(Curly-Coated)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Curly-coated_Retriever",
+    "description": "The Curly-coated Retriever (not always hyphenated, and often called the Curly for short) is a breed of dog originally bred in England for upland bird and waterfowl hunting.  It is the tallest of the retrievers and is easily distinguishable by the mass of tight curls covering its body. Curly Coated and Wavy Coated (now known as the Flat-Coated Retriever) were the first two recognised retriever breeds, established as early as 1860.",
+    "thumbnail_path": "raw-data/thumbnails/retrievers (curly-coated).jpg"
+  },
+  {
+    "breed": "Spaniels\u00a0(Field)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Field_Spaniel",
+    "description": "The Field Spaniel is a medium-sized dog breed of spaniel type. They were originally developed to be all-black show dogs in the late 19th and early 20th centuries and were unpopular for work as a hunting dog. However, during the mid-20th century they were redeveloped as a longer-legged dog that was more suitable to be used for field work. They are now considered to be a rare breed, and are registered as a Vulnerable Native Breed by The Kennel Club.",
+    "thumbnail_path": "raw-data/thumbnails/spaniels (field).jpg"
+  },
+  {
+    "breed": "Lowchen",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Nederlandse\u00a0Kooikerhondjes",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Affenpinschers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Affenpinscher",
+    "description": "The Affenpinscher (German: [\u02c8afn\u0329\u02ccp\u026an\u0283\u0250] ) is a German breed of small toy dog of Pinscher type.:\u200a30\u200a Originally developed as a mouser, the Affenpinscher is now commonly found as a companion worldwide.",
+    "thumbnail_path": "raw-data/thumbnails/affenpinschers.jpg"
+  },
+  {
+    "breed": "Petits\u00a0Bassets\u00a0Griffons\u00a0Vendeens",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Finnish\u00a0Lapphunds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Finnish_Lapphund",
+    "description": "The Finnish Lapphund (or Finnish Lapponian Dog) (Finnish: Suomenlapinkoira) is a hardy, easy going, medium-size breed of Spitz type. Traditionally it has been used for herding reindeer. Although it is one of the most popular dog breeds in its native country, Finland, it is not very numerous outside of the Nordic countries.",
+    "thumbnail_path": "raw-data/thumbnails/finnish lapphunds.jpg"
+  },
+  {
+    "breed": "Scottish\u00a0Deerhounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scottish_Deerhound",
+    "description": "The Scottish Deerhound, or simply the Deerhound, is a breed of large sighthound, once bred to hunt the red deer by coursing. In outward appearance it is similar to the Greyhound, but larger and more heavily boned, with a rough coat.",
+    "thumbnail_path": "raw-data/thumbnails/scottish deerhounds.jpg"
+  },
+  {
+    "breed": "Plott\u00a0Hounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Plott_Hound",
+    "description": "The Plott Hound is a large scent hound, originally bred for hunting bears. In 1989, the North Carolina General Assembly designated the Plott Hound as the official State Dog. The Plott Hound was first registered with the United Kennel Club in 1946. Plott Hounds were recognized by the American Kennel Club in 2006 and were exhibited at the Westminster Show in 2008.",
+    "thumbnail_path": "raw-data/thumbnails/plott hounds.jpg"
+  },
+  {
+    "breed": "Norwegian\u00a0Buhunds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_Buhund",
+    "description": "The Norwegian Buhund (Norwegian: Norsk buhund) is a breed of dog of the spitz type. It is closely related to the Icelandic Sheepdog and the J\u00e4mthund. The Buhund is used as a watch dog and an all purpose farm and herding dog.",
+    "thumbnail_path": "raw-data/thumbnails/norwegian buhunds.jpg"
+  },
+  {
+    "breed": "Glen\u00a0of\u00a0Imaal\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Glen_of_Imaal_Terrier",
+    "description": "The Glen of Imaal Terrier (Irish: Brocaire U\u00ed Mh\u00e1il) is a breed of dog of the terrier category and one of four Irish terrier breeds. It is sometimes called the Irish Glen of Imaal Terrier or the Wicklow Terrier, and the name of the breed is often shortened by fanciers to just Glen.",
+    "thumbnail_path": "raw-data/thumbnails/glen of imaal terriers.jpg"
+  },
+  {
+    "breed": "Setters\u00a0(Irish\u00a0Red\u00a0and\u00a0White)",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Ibizan\u00a0Hounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ibizan_Hound",
+    "description": "The Ibizan Hound (Spanish: podenco ibicenco, Catalan: ca eivissenc) is a lean, agile dog of the hound family. There are two hair types of the breed: smooth and wire. The more commonly seen type is the smooth. Some consider there to be a third type, long, but the longhair is most likely a variation of the wire.",
+    "thumbnail_path": "raw-data/thumbnails/ibizan hounds.jpg"
+  },
+  {
+    "breed": "Spaniels\u00a0(Sussex)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sussex_Spaniel",
+    "description": "The Sussex Spaniel is a breed of dog native to Sussex in southern England. It is a low, compact spaniel and is as old a breed as and similar in appearance to the Clumber Spaniel. They can be slow-paced, but can have a clownish and energetic temperament. They suffer from health conditions common to spaniels and some large dogs, as well as a specific range of heart conditions and spinal disc herniation.",
+    "thumbnail_path": "raw-data/thumbnails/spaniels (sussex).jpg"
+  },
+  {
+    "breed": "Bergamasco\u00a0Sheepdogs",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Spaniels\u00a0(Irish\u00a0Water)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Irish_Water_Spaniel",
+    "description": "The Irish Water Spaniel (Irish: An Sp\u00e1inn\u00e9ar Uisce) is a breed of dog that is the tallest of the spaniels.",
+    "thumbnail_path": "raw-data/thumbnails/spaniels (irish water).jpg"
+  },
+  {
+    "breed": "Polish\u00a0Lowland\u00a0Sheepdogs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Polish_Lowland_Sheepdog",
+    "description": "The Polish Lowland Sheepdog (Polish: Polski Owczarek Nizinny, also PON), is a medium-sized, shaggy-coated, sheep dog breed native to Poland.",
+    "thumbnail_path": "raw-data/thumbnails/polish lowland sheepdogs.jpg"
+  },
+  {
+    "breed": "Otterhounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Otterhound",
+    "description": "The Otterhound is an English dog breed. It is a scent hound and is currently recognised by the Kennel Club as a Vulnerable Native Breed with around 600 animals worldwide.",
+    "thumbnail_path": "raw-data/thumbnails/otterhounds.jpg"
+  },
+  {
+    "breed": "Kuvaszok",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Komondorok",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Cirnechi\u00a0dell\u2019Etna",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Pharaoh\u00a0Hounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pharaoh_Hound",
+    "description": "The Pharaoh Hound or Kelb tal-Fenek is a Maltese breed of hunting dog. It is traditionally used for rabbit-hunting in the rocky terrain of the islands; the Maltese name means \"rabbit dog\".",
+    "thumbnail_path": "raw-data/thumbnails/pharaoh hounds.jpg"
+  },
+  {
+    "breed": "Dandie\u00a0Dinmont\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dandie_Dinmont_Terrier",
+    "description": "A Dandie Dinmont Terrier is a small Scottish dog breed in the terrier family. The breed has a very long body, short legs, and a distinctive topknot of hair on the head. They are friendly but tough, and are suitable for interaction with older children. There are breed-specific health concerns: they can be affected by spinal problems due to their elongated body, and the breed is affected by canine cancer at a higher than average rate.",
+    "thumbnail_path": "raw-data/thumbnails/dandie dinmont terriers.jpg"
+  },
+  {
+    "breed": "Pyrenean\u00a0Shepherds",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Skye\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Skye_Terrier",
+    "description": "The Skye Terrier is a Scottish dog breed that is a long, low, hardy terrier and \"one of the most endangered native dog breeds in the United Kingdom\" according to the Kennel Club.",
+    "thumbnail_path": "raw-data/thumbnails/skye terriers.jpg"
+  },
+  {
+    "breed": "Canaan\u00a0Dogs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Canaan_Dog",
+    "description": "The Canaan Dog is a dog breed developed in the early 20th century from semiwild pariah dogs that were the descendants of animals present in the region since biblical times. It is a breed of pariah dog found across the Middle East. It can be found in Jordan, Israel, Lebanon, Palestine, and the Sinai Peninsula and these, or dogs nearly identical, were also found in Syria over 9,000 years ago. It is the national dog of Israel. As of 2012, there were 2,000 to 3,000 Canaan Dogs across the world.",
+    "thumbnail_path": "raw-data/thumbnails/canaan dogs.jpg"
+  },
+  {
+    "breed": "American\u00a0English\u00a0Coonhounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_English_Coonhound",
+    "description": "The American English Coonhound, also referred to as the English Coonhound or the Redtick Coonhound, is a breed of coonhound that originated in and is typically bred in the Southern United States. It is descended from hunting hounds, especially foxhounds, brought to America by settlers during the 17th and 18th centuries. The breed's first recognition came from the United Kennel Club in 1905 as the English Fox and Coonhound. Further recognition has been granted in recent years by the American Kennel Club, first in the Foundation Stock Service and in 2011 as a fully recognized member of the hound group.",
+    "thumbnail_path": "raw-data/thumbnails/american english coonhounds.jpg"
+  },
+  {
+    "breed": "Chinooks",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chinook_(dog)",
+    "description": "The Chinook is a breed of sled dog, developed in the state of New Hampshire during the early 20th century. The Chinook is New Hampshire's official state dog.",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Finnish\u00a0Spitz",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Finnish_Spitz",
+    "description": "The Finnish Spitz (Finnish: suomenpystykorva) is a breed of dog originating in Finland.  The breed was originally trained to hunt all types of game from squirrels and other rodents to bears.  It is a \"bark pointer\", indicating the position of game by barking, and drawing the game animal's attention to itself, allowing an easier approach for the hunter. Its original game hunting purpose was to point to game that fled into trees, such as grouse, and capercaillies, but it also serves well for hunting elk. Some individuals have even been known to go after a bear. In its native country, the breed is still mostly used as a hunting dog. The breed is typically friendly and good with children, so it is suitable for domestic life. The Finnish Spitz has been the national dog of Finland since 1979.",
+    "thumbnail_path": "raw-data/thumbnails/finnish spitz.jpg"
+  },
+  {
+    "breed": "Grand\u00a0Basset\u00a0Griffon\u00a0Vendeens",
+    "wikipedia_url": "",
+    "description": "",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Sloughis",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sloughi",
+    "description": "The Sloughi , or Arabian Greyhound (Arabic: \u0633\u0644\u0648\u0642\u064a), is an ancient breed of domesticated dog, specifically a member of the sighthound family. It originates from North Africa and is found in Algeria, Tunisia, Morocco and Libya.",
+    "thumbnail_path": "raw-data/thumbnails/sloughis.jpg"
+  },
+  {
+    "breed": "Harriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Harrier_(dog)",
+    "description": "The Harrier is a medium-sized  dog breed of the  hound class,",
+    "thumbnail_path": ""
+  },
+  {
+    "breed": "Cesky\u00a0Terriers",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cesky_Terrier",
+    "description": "The Cesky Terrier ( CHES-kee; Czech: \u010cesk\u00fd teri\u00e9r, lit. 'Bohemian Terrier' or 'Czech Terrier') is a small terrier type dog originating in  Czechoslovakia.",
+    "thumbnail_path": "raw-data/thumbnails/cesky terriers.jpg"
+  },
+  {
+    "breed": "American\u00a0Foxhounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Foxhound",
+    "description": "The American Foxhound is a breed of dog, closely related to the English Foxhound. They are scent hounds, bred to hunt foxes by scent. United States Founding Father George Washington was key to the breed's early development.",
+    "thumbnail_path": "raw-data/thumbnails/american foxhounds.jpg"
+  },
+  {
+    "breed": "Azawakhs",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Azawakh",
+    "description": "The Azawakh is a breed of dog from West Africa. With ancient origins, it is raised throughout the Sahelian zone of Mali, Niger,  and Burkina Faso.  This region includes the Azawagh Valley for which the breed is named. While commonly associated with the nomadic Tuareg people, the dogs are also bred and owned by other ethnic groups, such as the Peulh, Bella, and Hausa. The Azawakh is more related to the Sloughi than it is to the Saluki.",
+    "thumbnail_path": "raw-data/thumbnails/azawakhs.jpg"
+  },
+  {
+    "breed": "English\u00a0Foxhounds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/English_Foxhound",
+    "description": "The English Foxhound is one of the four foxhound breeds of dog. It is a cousin of the American Foxhound. They are scent hounds, bred to hunt foxes by scent.",
+    "thumbnail_path": "raw-data/thumbnails/english foxhounds.jpg"
+  },
+  {
+    "breed": "Norwegian\u00a0Lundehunds",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_Lundehund",
+    "description": "The Norwegian Lundehund (Norwegian: Norsk lundehund) is a small dog breed of the Spitz type that originates from Norway. Its name is a compound noun composed of the elements lunde, meaning puffin (Norwegian lunde, \"puffin\", or lundefugl, \"puffin bird\"), and hund, meaning dog. The breed was originally developed for the hunting of puffins and their eggs on inaccessible nesting places in caves and on cliffs.  The breed was at the brink of extinction in the 1960s and preservation efforts have since been underway.",
+    "thumbnail_path": "raw-data/thumbnails/norwegian lundehunds.jpg"
+  }
+]
